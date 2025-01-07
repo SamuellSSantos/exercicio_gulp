@@ -1,1 +1,1 @@
-function ಠ_ಠ147(o,r){return o+r}console.log(ಠ_ಠ147(10,10)),module.ಠ_ಠ148=ಠ_ಠ147;
+function ಠ_ಠ131(o,r){return o+r}console.log(ಠ_ಠ131(10,10)),module.ಠ_ಠ132=ಠ_ಠ131;
